@@ -1,4 +1,4 @@
-# IRF_LLM
+# IRFT(mining high-frequency risk factors with transformer)
 ## 1 How to config the environments:
 - on Ubuntu 20.04.5 
 - scikit-learn==1.1.0
