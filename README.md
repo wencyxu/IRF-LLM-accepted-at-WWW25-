@@ -1,7 +1,7 @@
 # IRF_LLM
 ## 1 How to config the environments:
 - on Ubuntu 20.04.5 
-- cikit-learn==1.1.0
+- scikit-learn==1.1.0
 - matplotlib==3.7.4
 - numpy==1.24.4
 - numexpr==2.8.1
