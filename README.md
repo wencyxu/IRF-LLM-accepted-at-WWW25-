@@ -14,6 +14,6 @@
 ## 2 Prepare training data and model:
 * Download the ```model.pt``` and ```data``` folder from the website ```https://drive.google.com/drive/folders/1PU-XqvDr2KSjpeaPBKGJNb8O4z0pu_up?usp=sharing```.  
 * Download ```model.pt``` and put the ```model.pt``` and ```Example.py``` in the same folder.
-* The ```data``` folder contains two folders, representing two types of high-frequency trading data for the stock market (the data has been preprocessed, without leaking any important information): the ```SSE50``` folder and the ```SP500``` folder. Both folders contain  ```5 input features(open,high,low,close and vwap) and one target```, respectively.
+* The ```data``` folder contains two folders, representing two types of high-frequency trading data for the stock market (the data has been preprocessed, without leaking any important information): the ```HS300``` folder and the ```SP500``` folder. Both folders contain  ```6 input features(open, high, low, close, volume and vwap) and one target```, respectively.
 ## 3 How to train model:
 ```python Example.py ```
