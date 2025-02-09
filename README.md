@@ -1,3 +1,12 @@
+#Please cite this paper:
+```
+@article{xu2024hrft,
+  title={HRFT: Mining High-Frequency Risk Factor Collections End-to-End via Transformer},
+  author={Xu, Wenyan and Wang, Rundong and Li, Chen and Hu, Yonghong and Lu, Zhonghua},
+  journal={arXiv preprint arXiv:2408.01271},
+  year={2024}
+}
+```
 # IRFT(mining high-frequency risk factors with transformer)
 ## 1 How to config the environments:
 - on Ubuntu 20.04.5 
