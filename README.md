@@ -1,10 +1,11 @@
 #Please cite this paper:
 ```
-@article{xu2024hrft,
+@inproceedings{xu2025hrft,
   title={HRFT: Mining High-Frequency Risk Factor Collections End-to-End via Transformer},
   author={Xu, Wenyan and Wang, Rundong and Li, Chen and Hu, Yonghong and Lu, Zhonghua},
-  journal={arXiv preprint arXiv:2408.01271},
-  year={2024}
+  booktitle={Companion Proceedings of the ACM on Web Conference 2025},
+  pages={538--547},
+  year={2025}
 }
 ```
 # IRFT(mining high-frequency risk factors with transformer)
