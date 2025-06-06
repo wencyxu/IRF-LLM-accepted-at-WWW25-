@@ -1,4 +1,4 @@
-#Please cite this paper:
+#If you find our research helpful, please cite our paper:
 ```
 @inproceedings{xu2025hrft,
   title={HRFT: Mining High-Frequency Risk Factor Collections End-to-End via Transformer},
